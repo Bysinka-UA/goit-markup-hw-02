@@ -13,6 +13,7 @@ a {
 }
 
 .logo {
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -62,13 +63,14 @@ color: #434455;
 .hero-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.0;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
 
 .button-title {
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -118,6 +120,11 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
+}
+
+.team-title {
+  background-color: #FFFFFF;
 }
 
 .team-description {
