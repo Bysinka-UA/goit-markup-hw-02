@@ -1,5 +1,5 @@
 body {
-  font-family: `Roboto` , sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -102,7 +102,7 @@ color: #434455;
 
 .team-page {
   text-transform: capitalize;
-  background-color: #f4f4fd;
+  background-color: #FFFFFF;
 }
 
 .taem-page-title {
