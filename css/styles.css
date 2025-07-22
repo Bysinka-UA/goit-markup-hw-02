@@ -102,7 +102,7 @@ color: #434455;
 
 .team-page {
   text-transform: capitalize;
-  background-color: #FFFFFF;
+  background-color: #F4F4FD;
 }
 
 .taem-page-title {
@@ -122,10 +122,6 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
-}
-
-.team-title {
-  background-color: #FFFFFF;
 }
 
 .team-description {
